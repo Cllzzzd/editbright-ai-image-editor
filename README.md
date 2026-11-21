@@ -79,7 +79,6 @@ Short, specific prompts work best. The public FAQ mentions changing backgrounds,
 - Tagline: **Free AI image editor — no sign up, no login**
 - Homepage: [https://editbright.com/](https://editbright.com/)
 - Logo (SVG): [https://editbright.com/brand.svg](https://editbright.com/brand.svg)
-- Local PNG copy used in other handoff work: `/workspace/ai-new-sites/handoff/assets/directories/editbright-logo-256.png`
 
 
 ## Translated versions of the site
